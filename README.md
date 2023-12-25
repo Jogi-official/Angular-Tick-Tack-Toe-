@@ -1,7 +1,9 @@
 # TickTackToe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.10.
+
 Used Nebular Celestal for UI and button https://akveo.github.io/nebular/
+
 ![image](https://github.com/Jogi-official/Angular-Tick-Tack-Toe-/assets/61930537/fe4a24fe-a48e-4aed-947c-0668be9eaa52)
 
 
